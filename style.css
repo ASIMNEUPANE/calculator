@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
+html, body{
+    height: 100%;
+    width: 100%;
+    font-family: 'Varela Round', sans-serif;
+    background-color: green;
+
+}
+.container{
+    
+    border: 2px solid gray;
+    background-color: rgb(22, 61, 59);
+    border-radius: 15px;
+}
+.button{
+    color: rgb(218, 179, 179);
+    background-color: rgb(10, 4, 4);
+    padding: 20px;
+    margin: 0 3px;
+    border:  2px solid black;
+    border-radius: 9px;
+    cursor: pointer;
+    transition: width 2s;
+}
+.row{
+    margin: auto;
+    padding: 10px;
+}
+.input{
+    width: 17vw;
+    height: 40px;
+    border-radius: 9px;
+    border: 2px solid black;
+    font-size: 40px;
+    background-color: rgb(10, 4, 4);
+    color: rgb(218, 179, 179);
+
+}
+
+
+/* @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&family=Ubuntu:wght@300&display=swap');
+html, body {
+  height: 100%;
+  width: 100%;
+  font-family: 'Roboto', sans-serif; 
+}
+
+.button{
+  width: 66px;
+  padding: 20px;
+  margin: 0 3px;
+  border: 2px solid black;
+  border-radius: 9px;
+  cursor: pointer;
+}
+
+.row{
+  margin: 8px 0;
+}
+.row input{
+  width: 291px;
+  font-size: 20px;
+    margin: 0;
+    padding: 10px 0px;
+    border: 2px solid black;
+    border-radius: 5px;
+} */
